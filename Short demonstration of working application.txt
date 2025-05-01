@@ -1,0 +1,71 @@
+(dl_env) D:\1Final Year\AI Prog\Lab3>D:/Application/Anaconda/envs/dl_env/python.exe "d:/1Final Year/AI Prog/Lab3/main.py"
+Enter your user ID: 77619
+
+1. Search for news on a topic
+2. Save a topic of interest  
+3. View customized summaries 
+4. View search history       
+5. Exit
+Enter your choice: 2
+Enter a topic to save: NLP
+Topic 'NLP' saved.
+
+1. Search for news on a topic
+2. Save a topic of interest
+3. View customized summaries
+4. View search history
+5. Exit
+Enter your choice: 1
+Enter a topic to search: Deep Learning          
+Enter timeframe (e.g., '24 hours', '1 week'): 1 weel 
+Found 5 articles on 'Deep Learning '.
+
+1. Search for news on a topic
+2. Save a topic of interest
+3. View customized summaries
+4. View search history
+5. Exit
+Enter your choice: 3
+1. Topic: Deep Learning , Timeframe: 1 weel 
+Select a search entry to summarize: 1
+Enter summary type (brief/detailed): brief
+Title: AI In FinTech: Transforming The Way Business Owners Access Capital
+Summary: Here is a summary of the article in 1-2 sentences:
+
+The financial services industry is expected to spend around $100 billion on artificial intelligence (AI) in 2027, marking a significant investment in the technology. 
+--------------------------------------------------
+Title: What is unstructured data?
+Summary: Here is a summary of the article in 1-2 sentences:
+
+Unstructured data, which takes many forms and doesn't conform to traditional data models, can be challenging to store and manage in mainstream relational databases. This type of data, which makes up the majority of data in many organizations, requires specialized solutions to effectively capture, store, and analyze its complex and varied formats.
+--------------------------------------------------
+Title: AI’s Power to Pace Learning
+Summary: Here is a summary of the article in 1-2 sentences:
+
+The article challenges the prevailing narrative that AI in education is a "gas pedal" that accelerates learning and delivers instant expertise, suggesting that this framing may be overly optimistic. Instead, the author argues that AI in education may have more nuanced and complex effects that require further examination and understanding.
+--------------------------------------------------
+Title: "Most So-Called AI Things Are Silly, Old Programmes": Narayana Murthy
+Summary: Here is a summary of the article in 1-2 sentences:
+
+Infosys co-founder Narayana Murthy has criticized the overuse of the term "artificial intelligence" in India, stating that most claims of AI implementation are "silly" and "odd". He believes that AI is being oversold and that it's become a "fashion" to talk about AI solutions for everything.
+--------------------------------------------------
+Title: Who By Fire
+Summary: The article discusses a new movie by French-Canadian writer-director Philippe Lesage, which may cause apprehension or dread in some viewers due to its plot description. The movie, titled Albe, is shrouded in mystery, but the article hints that it may deal with themes that evoke fear or unease.
+--------------------------------------------------
+
+1. Search for news on a topic
+2. Save a topic of interest
+3. View customized summaries
+4. View search history
+5. Exit
+Enter your choice: 4
+Topic: Deep Learning , Timeframe: 1 weel 
+
+1. Search for news on a topic
+2. Save a topic of interest
+3. View customized summaries
+4. View search history
+5. Exit
+Enter your choice: 5
+
+
