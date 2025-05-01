@@ -13,4 +13,13 @@ Watch a short demonstration video: [Demo Video](https://drive.google.com/file/d/
    ```bash
    git clone https://github.com/MoAReda/news-summarizer.git
    cd news-summarizer
+2. Install dependencies:
+   ```bash
    pip install -r requirements.txt
+3. Create .env:
+   ```bash
+   echo NEWSAPI_KEY=your_key > .env
+   echo GROQ_API_KEY=your_key >> .env
+4. Run:
+   ```bash
+   python main.py
