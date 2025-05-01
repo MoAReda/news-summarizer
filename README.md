@@ -2,7 +2,7 @@
 Fetches news via NewsAPI, creates embeddings with Sentence Transformers, stores them in Chroma, and summarizes with LangChain/Groq.
 
 ## Demonstration
-Watch a short demonstration video: [Demo Video]([https://drive.google.com/file/d/VIDEO_ID/view?usp=sharing](https://drive.google.com/file/d/1Uv6ZV1Tmo-e2On9HRrS_u9bGZZewW8EF/view?usp=sharing))
+Watch a short demonstration video: [Demo Video](https://drive.google.com/file/d/1Uv6ZV1Tmo-e2On9HRrS_u9bGZZewW8EF/view?usp=sharing)
 
 ## Prerequisites
 - Python 3.9+
