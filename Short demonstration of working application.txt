@@ -1,14 +1,4 @@
-(dl_env) D:\1Final Year\AI Prog\Lab3>D:/Application/Anaconda/envs/dl_env/python.exe "d:/1Final Year/AI Prog/Lab3/main.py"
-Enter your user ID: 77619
-
-1. Search for news on a topic
-2. Save a topic of interest  
-3. View customized summaries 
-4. View search history       
-5. Exit
-Enter your choice: 2
-Enter a topic to save: NLP
-Topic 'NLP' saved.
+Enter your user ID: 456
 
 1. Search for news on a topic
 2. Save a topic of interest
@@ -16,9 +6,17 @@ Topic 'NLP' saved.
 4. View search history
 5. Exit
 Enter your choice: 1
-Enter a topic to search: Deep Learning          
-Enter timeframe (e.g., '24 hours', '1 week'): 1 weel 
-Found 5 articles on 'Deep Learning '.
+Enter a topic to search: Mohamed Salah
+Enter timeframe (e.g., '24 hours', '1 week'): 24 hours 
+Add of existing embedding ID: Liverpool Premier League title retention hopes BOOSTED by summer plans: report
+Insert of existing embedding ID: Liverpool Premier League title retention hopes BOOSTED by summer plans: report
+Add of existing embedding ID: Former Premier League Striker Claims Liverpool Star is Worth £400m
+Insert of existing embedding ID: Former Premier League Striker Claims Liverpool Star is Worth £400m
+Add of existing embedding ID: Paul Joyce Provides Update on Liverpool’s Contract Talks with Ibrahima Konate
+Insert of existing embedding ID: Paul Joyce Provides Update on Liverpool’s Contract Talks with Ibrahima Konate
+Add of existing embedding ID: Why Liverpool’s Final Games Matter, Despite Already Sealing The Premier League
+Insert of existing embedding ID: Why Liverpool’s Final Games Matter, Despite Already Sealing The Premier League
+Found 4 articles on 'Mohamed Salah'.
 
 1. Search for news on a topic
 2. Save a topic of interest
@@ -26,31 +24,107 @@ Found 5 articles on 'Deep Learning '.
 4. View search history
 5. Exit
 Enter your choice: 3
-1. Topic: Deep Learning , Timeframe: 1 weel 
+1. Topic: Mohamed Salah, Timeframe: 24 hours
 Select a search entry to summarize: 1
 Enter summary type (brief/detailed): brief
-Title: AI In FinTech: Transforming The Way Business Owners Access Capital
+Title: Liverpool Premier League title retention hopes BOOSTED by summer plans: report
 Summary: Here is a summary of the article in 1-2 sentences:
 
-The financial services industry is expected to spend around $100 billion on artificial intelligence (AI) in 2027, marking a significant investment in the technology. 
+Liverpool's dominance in the Premier League is unlikely to continue uninterrupted, as they face stiff competition that will make defending their title more challenging. The team's upcoming season is expected to be more competitive than their previous one, which saw them win the title with ease.
 --------------------------------------------------
-Title: What is unstructured data?
+Title: Former Premier League Striker Claims Liverpool Star is Worth £400m
 Summary: Here is a summary of the article in 1-2 sentences:
 
-Unstructured data, which takes many forms and doesn't conform to traditional data models, can be challenging to store and manage in mainstream relational databases. This type of data, which makes up the majority of data in many organizations, requires specialized solutions to effectively capture, store, and analyze its complex and varied formats.
+Liverpool's 5-1 win over Tottenham was a coronation of sorts, as manager Arne Slot's guidance led to a dominant performance on the grand stage. The victory was a culmination of the team's efforts under Slot's leadership, showcasing their strengths and cementing their status as champions.
 --------------------------------------------------
-Title: AI’s Power to Pace Learning
+Title: Paul Joyce Provides Update on Liverpool’s Contract Talks with Ibrahima Konate
 Summary: Here is a summary of the article in 1-2 sentences:
 
-The article challenges the prevailing narrative that AI in education is a "gas pedal" that accelerates learning and delivers instant expertise, suggesting that this framing may be overly optimistic. Instead, the author argues that AI in education may have more nuanced and complex effects that require further examination and understanding.
+Liverpool's second Premier League title under Jürgen Klopp highlighted the significant impact of Arne Slot, who has had a transformative debut season. As the club celebrates, attention is already shifting to how Slot's arrival has influenced the team's success.
 --------------------------------------------------
-Title: "Most So-Called AI Things Are Silly, Old Programmes": Narayana Murthy
+Title: Why Liverpool’s Final Games Matter, Despite Already Sealing The Premier League
 Summary: Here is a summary of the article in 1-2 sentences:
 
-Infosys co-founder Narayana Murthy has criticized the overuse of the term "artificial intelligence" in India, stating that most claims of AI implementation are "silly" and "odd". He believes that AI is being oversold and that it's become a "fashion" to talk about AI solutions for everything.
+Liverpool's players will receive the actual trophy on May 25, marking a significant milestone in their championship season. Coach Jürgen Klopp and the team have been waiting patiently to get their hands on the trophy, which they can finally do soon.
 --------------------------------------------------
-Title: Who By Fire
-Summary: The article discusses a new movie by French-Canadian writer-director Philippe Lesage, which may cause apprehension or dread in some viewers due to its plot description. The movie, titled Albe, is shrouded in mystery, but the article hints that it may deal with themes that evoke fear or unease.
+
+1. Search for news on a topic
+2. Save a topic of interest
+3. View customized summaries
+4. View search history
+5. Exit
+Enter your choice: 3
+1. Topic: Mohamed Salah, Timeframe: 24 hours
+Select a search entry to summarize: 1
+Enter summary type (brief/detailed): detailed
+Title: Liverpool Premier League title retention hopes BOOSTED by summer plans: report
+Summary: The article suggests that while Liverpool has been dominant in the Premier League and deserves to be praised for their success, they are unlikely to have an easy time defending their title in the upcoming season. The team has had an advantage in the past, but this may not be the case in the future, and they will need to work hard to maintain their position.
+--------------------------------------------------
+Title: Former Premier League Striker Claims Liverpool Star is Worth £400m
+Summary: The article discusses Liverpool's dominant 5-1 win over Tottenham, which was a culmination of their successful season under the guidance of manager Arne Slot. The victory was a coronation of sorts, as the team delivered a strong performance on the grand stage of Anfield, showcasing their skills and cementing their status as champions. The win was a testament to Slot's leadership and the team's ability to come together and achieve greatness.      
+--------------------------------------------------
+Title: Paul Joyce Provides Update on Liverpool’s Contract Talks with Ibrahima Konate
+Summary: Liverpool's coronation as Premier League champions for the second time under Jurgen Klopp's leadership has marked a significant milestone, highlighting the immense impact Arne Slot has had in his first season as manager. Despite the focus on Liverpool's achievement, attention has already turned to the transformative influence Slot has had on the team, with his introduction as a major factor in their success.
+--------------------------------------------------
+Title: Why Liverpool’s Final Games Matter, Despite Already Sealing The Premier League
+Summary: According to the article, Liverpool's players will receive the actual trophy on May 25. This comes after the team's impressive performance, with even their coach staying humble until the very end. The article suggests that the team's smart and grounded nature has contributed to their success.    
+--------------------------------------------------
+
+1. Search for news on a topic
+2. Save a topic of interest
+3. View customized summaries
+4. View search history
+5. Exit
+Enter your choice: 1
+Enter a topic to search: AI
+Enter timeframe (e.g., '24 hours', '1 week'): 1 week
+Found 5 articles on 'AI'.
+
+1. Search for news on a topic
+2. Save a topic of interest
+3. View customized summaries
+4. View search history
+5. Exit
+Enter your choice: 2
+Enter a topic to save: Deep learning 
+Topic 'Deep learning' saved.
+
+1. Search for news on a topic
+2. Save a topic of interest
+3. View customized summaries
+4. View search history
+5. Exit
+Enter your choice: 3
+1. Topic: Mohamed Salah, Timeframe: 24 hours
+2. Topic: AI, Timeframe: 1 week
+Select a search entry to summarize: 2
+Enter summary type (brief/detailed): brief
+Title: VIDEOREPORTAJ „Un localnic m-a întrebat odată: „Domnule primar, dar casa ta nu arde?”. Cum văd alegerile prezidențiale românii care trăiesc lângă 
+războiul din Ucraina
+Summary: Here is a summary of the article in 1-2 sentences:
+
+In the commune of Chilia, where many drones from the war in Ukraine have fallen, hopes for the future have almost disappeared. The second round of returns is the only message that remains...
+--------------------------------------------------
+Title: Amazon e Donald Trump hanno litigato
+Summary: Here is a summary of the article in 1-2 sentences:
+
+Tensions have arisen between Trump and Jeff Bezos after Amazon proposed making tariffs on products sold on its platform more visible to customers. This move, initially reported by Punchbowl News, has reportedly been met with disapproval from the Trump administration.
+--------------------------------------------------
+Title: iPhone 16 Pro: The Initial Hype vs. Reality After 6 Months
+Summary: Here is a summary of the article in 1-2 sentences:
+
+The iPhone 16 Pro has been on the market for over six months, boasting a combination of high-end features and some notable drawbacks. It excels in areas 
+such as design, performance, and camera capabilities, but may have some areas for improvement.
+--------------------------------------------------
+Title: 밍글랩, 시드 투자 유치
+Summary: Here is a summary of the article in 2 sentences:
+
+Mingle Lab, a startup that operates the AI-powered child education information integration platform Learns, has attracted seed investment. The platform uses AI to learn and provide personalized education information to children, making it a unique and innovative solution in the education sector.
+--------------------------------------------------
+Title: Meta lanza su nueva aplicación Meta AI: una experiencia personalizada y conversacional
+Summary: Here is a summary of the article in 1-2 sentences:
+
+Meta has officially launched the first version of its Meta AI application, which aims to offer a more personalized, social, and adaptive virtual assistant tailored to each user's needs. The app aims to provide a more human-like experience, incorporating AI technology to better understand and respond to users' requests.
 --------------------------------------------------
 
 1. Search for news on a topic
@@ -59,7 +133,8 @@ Summary: The article discusses a new movie by French-Canadian writer-director Ph
 4. View search history
 5. Exit
 Enter your choice: 4
-Topic: Deep Learning , Timeframe: 1 weel 
+Topic: Mohamed Salah, Timeframe: 24 hours
+Topic: AI, Timeframe: 1 week
 
 1. Search for news on a topic
 2. Save a topic of interest
@@ -67,5 +142,4 @@ Topic: Deep Learning , Timeframe: 1 weel
 4. View search history
 5. Exit
 Enter your choice: 5
-
-
+Exiting application.

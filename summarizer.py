@@ -1,9 +1,11 @@
 from langchain_groq import ChatGroq
 from langchain.prompts import PromptTemplate
 from langchain.schema.runnable import RunnableSequence
+from dotenv import load_dotenv
+import os
+load_dotenv()
 
-# Set up Groq model
-GROQ_API_KEY = "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"
+GROQ_API_KEY = os.getenv("GROQ_API_KEY")
 model = ChatGroq(temperature=0.7, model_name="llama3-8b-8192", groq_api_key=GROQ_API_KEY)
 
 # Define summarization prompts
